@@ -1,0 +1,40 @@
+home.html
+
+bigboss.html
+
+businessman.html
+
+film.html
+
+model.html
+
+other.html
+
+politician.html
+
+singer.html
+
+sport.html
+
+television.html
+
+
+home.html     
+
+bigboss.html			Pooja Misra Biography
+
+businessman.html		Ranbir Kapoor Biography
+
+film.html			Rajendra Kumar Biography
+
+model.html			Rahul Kumar Biography  
+
+other.html
+
+politician.html			Ravi Kishan Biography 
+
+singer.html			Rajeev Khandelwal Biography
+
+sport.html
+
+television.html			Ridhi Dogra Biography

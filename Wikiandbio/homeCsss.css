@@ -1,0 +1,133 @@
+.home1
+{
+background-color:black;
+ height:40px; 
+ width:1340px;
+}
+
+.home2
+{
+background-color:rgb(60, 60, 60);
+ height:40px; 
+ width:1250px;
+}
+
+
+.home3
+{
+background-color:rgb(240, 240, 240);
+ height:50px; 
+ width:1250px;
+}
+
+.home4
+{
+background-color:rgb(240, 240, 240);
+ height:50px; 
+
+}
+
+body
+{
+background-color:rgb(240, 240, 240);
+}
+
+#readmore
+{
+background-color:silver;
+ height:50px; 
+ width:800px;
+}
+
+.home5
+{
+background-color:rgb(240, 240, 240);
+ height:50px; 
+ width:380px;
+}
+.home6
+{
+background-color:rgb(240, 240, 240);
+ height:50px; 
+ width:450px;
+}
+
+.home7
+{
+background-color:black;
+ height:100px; 
+ width:1340px;
+}
+.home8
+{
+background-color:rgb(60, 60, 60);
+ height:450px; 
+ width:1340px;
+}
+
+.home9
+{
+background-color:black;
+ height:40px; 
+ width:1340px;
+}
+
+.home10
+{
+background-color:rgb(60, 60, 60);
+ height:45px; 
+ width:350px;
+}
+
+.ABC:link{color:white; text-decoration:none;}
+.ABC:visited{color:white;text-decoration:none;}
+.ABC:hover{color:white;text-decoration:none;}
+.ABC:active{color:white;text-decoration:none;}
+
+.AB:link{color:red; text-decoration:none;}
+.AB:visited{color:red;text-decoration:none;}
+.AB:hover{color:red;text-decoration:none;}
+.AB:active{color:Red;text-decoration:none;}
+
+.ss:active{color:Black;text-decoration:none;}
+.ss:link{color:Black; text-decoration:none;}
+.ss:visited{color:Black;text-decoration:none;}
+.ss:hover{color:Black;text-decoration:none;}
+
+.ssss:active{color:Black;text-decoration:none;font-weight:bold;}
+.ssss:link{color:Black; text-decoration:none;font-weight:bold;}
+.ssss:visited{color:Black;text-decoration:none;font-weight:bold;}
+.ssss:hover{color:Black;text-decoration:none;font-weight:bold;}
+
+.sss:active{color:Red;text-decoration:none; font-size:13px;}
+.sss:link{color:Red; text-decoration:none;font-size:13px;}
+.sss:visited{color:Red;text-decoration:none; font-size:13px;}
+.sss:hover{color:Red;text-decoration:none;font-size:13px;}
+
+.sssss:active{color:black;text-decoration:none; font-size:25px;font-weight:bold;}
+.sssss:link{color:black; text-decoration:none;font-size:25px;font-weight:bold;}
+.sssss:visited{color:black;text-decoration:none; font-size:25px;font-weight:bold;}
+.sssss:hover{color:black;text-decoration:none;font-size:25px;font-weight:bold;}
+
+.ssssss:active{color:white;text-decoration:none; font-size:13px;font-weight:bold; padding:13px; background-color:red;}
+.ssssss:link{color:white; text-decoration:none;font-size:13px;font-weight:bold;padding:13px; background-color:red;}
+.ssssss:visited{color:white;text-decoration:none; font-size:13px;font-weight:bold;padding:13px; background-color:red;}
+.ssssss:hover{color:white;text-decoration:none;font-size:13px;font-weight:bold;padding:13px; background-color:red;}
+
+
+.aa:active{color:white;text-decoration:none; font-size:20px;}
+.aa:link{color:white; text-decoration:none;font-size:20px;}
+.aa:visited{color:white;text-decoration:none; font-size:20px;}
+.aa:hover{color:white;text-decoration:none;font-size:20px;}
+
+.aaa:active{color:white;text-decoration:none; font-size:15px;font-weight:bold}
+.aaa:link{color:white; text-decoration:none;font-size:15px;font-weight:bold}
+.aaa:visited{color:white;text-decoration:none; font-size:15x;font-weight:bold}
+.aaa:hover{color:white;text-decoration:none;font-size:15px;font-weight:bold}
+
+.aaaa:active{color:white;text-decoration:none; font-size:13px;font-weight:bold}
+.aaaa:link{color:white; text-decoration:none;font-size:13px;font-weight:bold}
+.aaaa:visited{color:white;text-decoration:none; font-size:13px;font-weight:bold}
+.aaaa:hover{color:white;text-decoration:none;font-size:13px;font-weight:bold}
+
+
